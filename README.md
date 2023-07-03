@@ -1,12 +1,7 @@
 # Introduction
 
-Welcome to this repository. This rep contains project files for the book - ***ROS Robotics Projects - Second edition***, published by Packt. If you already bought the book, congratulations, let's get started. If not, you could buy them from the below links :
+Welcome to this repository. This rep contains project files for the book - [***ROS Robotics Projects - Second edition***](https://shorturl.at/aruyR), published by Packt. If you already bought the book, congratulations, let's get started. If not, you could buy them from the below links :
 
-<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781838649326-original.jpeg" alt="Book_cover"	title="Book_cover" width="320" height="380"/>
-
-- Packt : [link](https://www.packtpub.com/in/iot-hardware/ros-robotics-projects-second-edition)
-- Amazon India : [link](https://www.amazon.in/ROS-Robotics-Projects-Operating-learning-ebook/dp/B07ZRWFPHF/ref=sr_1_1?keywords=ramkumar+gandhinathan&qid=1578618609&sr=8-1)
-- Amazon US : [link](https://www.amazon.com/ROS-Robotics-Projects-Operating-learning/dp/1838649328/ref=sr_1_1?keywords=ramkumar+gandhinathan&qid=1578618675&sr=8-1)
 
 # Approach
 
